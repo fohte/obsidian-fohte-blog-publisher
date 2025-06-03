@@ -1,7 +1,7 @@
 {
 	"id": "obsidian-fohte-blog-publisher",
 	"name": "Fohte Blog Publisher",
-	"version": "1.0.0",
+	"version": "0.1.0-alpha",
 	"minAppVersion": "0.15.0",
 	"description": "Publish Obsidian notes to fohte.net blog",
 	"author": "fohte",

@@ -1,6 +1,6 @@
 {
 	"name": "obsidian-fohte-blog-publisher",
-	"version": "1.0.0",
+	"version": "0.1.0-alpha",
 	"description": "Publish Obsidian notes to fohte.net blog",
 	"main": "main.js",
 	"scripts": {
