@@ -1,8 +1,8 @@
 # Obsidian Fohte Blog Publisher
 
-An Obsidian plugin to publish notes to fohte.net blog.
+An Obsidian plugin to publish notes to [fohte.net blog](https://github.com/fohte/fohte.net).
 
-This plugin allows you to seamlessly publish your Obsidian notes to your fohte.net blog directly from the Obsidian interface.
+This plugin allows you to seamlessly publish your Obsidian notes to your [fohte.net blog](https://github.com/fohte/fohte.net) directly from the Obsidian interface.
 
 ## First time developing plugins?
 
